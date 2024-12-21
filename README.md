@@ -27,5 +27,5 @@ Replace Huysor with your actual name and add your LinkedIn and GitHub URLs where
 - [Project 2](https://github.com/khuysor/project2)
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/huysor-kheang-203118284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [LinkedIn](https://www.linkedin.com/in/huysor-kheang-203118284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-profile)

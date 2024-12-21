@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=khuysor)
 
 About Me
-🔭 Profession: I'm [Your Name], a skilled software developer with a robust background in full-stack development. My expertise is in Java, Spring Boot, React, Nest, Docker, and ASP.NET.
+🔭 Profession: I'm Huysor, a skilled software developer with a robust background in full-stack development. My expertise is in Java, Spring Boot, React, Nest, Docker, and ASP.NET.
 
 🌱 Current Learning Endeavors: Dedicated to continuous improvement, I am currently focusing on mastering advanced techniques in full-stack development and exploring the latest technologies to enhance application performance and user interactions.
 

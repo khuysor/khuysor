@@ -5,18 +5,21 @@
 
 # About Me
 
-### 👨‍💻 About [Your Name]
-I am a full-stack developer with extensive experience in building applications using Java, Spring Boot, React, NestJS, Docker, and ASP.NET.
+## 👨‍💻 About Huysor
+I am a full-stack developer with a rich background in creating versatile applications using a variety of technologies.
 
-### 🛠️ Skills
-- **Java & Spring Boot:** Building robust backend solutions.
-- **React:** Crafting dynamic and responsive front-ends.
-- **NestJS:** Developing efficient server-side applications.
-- **Docker:** Containerizing applications for consistent deployment.
-- **ASP.NET:** Creating scalable web applications.
+## 🛠️ Skills
+- ☕ **Java & Spring Boot:** Expertise in building robust backend solutions.
+- 🖥️ **React:** Skilled in crafting dynamic and responsive user interfaces.
+- 🐦 **NestJS:** Proficient in developing efficient server-side applications.
+- 🐳 **Docker:** Experienced in containerizing applications to ensure consistent deployments.
+- 🌐 **ASP.NET:** Knowledgeable in creating scalable web applications.
+
+---
+
+Feel free to explore my projects and reach out if you have any questions or need further information.
 
 
-Feel free to connect with me on [LinkedIn](#) or follow my projects on [GitHub](#).
 
 
 ## My Projects

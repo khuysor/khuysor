@@ -36,7 +36,11 @@ Feel free to explore my projects and reach out if you have any questions or need
 
 💻 <b>Software Engineering</b>
 
-🔥 <b>Team player</b>
+<!-- Circle Image for Team Player -->
+<div style="display: flex; align-items: center;">
+  <img src="path-to-your-image.jpg" alt="Team Player" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 10px;">
+  <p>🔥 <b>Team player</b></p>
+</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=khuysor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" alt="GitHub Stats">

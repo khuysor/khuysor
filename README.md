@@ -20,7 +20,6 @@ I am looking to deepen my understanding of complex software architectures and cl
 
 Feel free to connect with me on [LinkedIn](#) or follow my projects on [GitHub](#).
 
-Replace Huysor with your actual name and add your LinkedIn and GitHub URLs where indicated to personalize your README further.
 
 ## My Projects
 - [Project 1](https://github.com/khuysor/project1)

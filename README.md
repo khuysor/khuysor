@@ -2,21 +2,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khuysor)
 
+
 # About Me
 
-### 🔭 Profession
-I'm Huysor, a skilled software developer with robust expertise in full-stack development. My technical skills encompass Java, Spring Boot, React, NestJS, Docker, and ASP.NET.
+### 👨‍💻 About [Your Name]
+I am a full-stack developer with extensive experience in building applications using Java, Spring Boot, React, NestJS, Docker, and ASP.NET.
 
-### 🌱 Current Learning Endeavors
-Dedicated to continuous improvement, I am actively enhancing my mastery of advanced full-stack development techniques and integrating the latest technologies to optimize application performance and user interaction.
+### 🛠️ Skills
+- **Java & Spring Boot:** Building robust backend solutions.
+- **React:** Crafting dynamic and responsive front-ends.
+- **NestJS:** Developing efficient server-side applications.
+- **Docker:** Containerizing applications for consistent deployment.
+- **ASP.NET:** Creating scalable web applications.
 
-### 👯 Collaboration
-I am eager to collaborate with like-minded professionals on innovative projects that leverage cutting-edge web technologies. I aim to significantly improve business processes and enhance user engagement through these collaborations.
-
-### 🤔 Seeking Help
-I am looking to deepen my understanding of complex software architectures and cloud solutions. I welcome guidance and partnerships that can help me in these areas.
-
----
 
 Feel free to connect with me on [LinkedIn](#) or follow my projects on [GitHub](#).
 

@@ -1,0 +1,19 @@
+# Welcome to My GitHub Profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=khuysor)
+
+## About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+## My Projects
+- [Project 1](https://github.com/khuysor/project1)
+- [Project 2](https://github.com/khuysor/project2)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)

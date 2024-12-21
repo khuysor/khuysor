@@ -10,10 +10,10 @@ I am a full-stack developer with a rich background in creating versatile applica
 
 ## 🛠️ Skills
 - ☕ **Java & Spring Boot:** Expertise in building robust backend solutions.
-- ⚛️ **React:** Skilled in crafting dynamic and responsive user interfaces.
-- 🪺 **NestJS:** Proficient in developing efficient server-side applications.
+- 🖥️ **React:** Skilled in crafting dynamic and responsive user interfaces.
+- 🐦 **NestJS:** Proficient in developing efficient server-side applications.
 - 🐳 **Docker:** Experienced in containerizing applications to ensure consistent deployments.
-- 🖥️ **ASP.NET:** Knowledgeable in creating scalable web applications.
+- 🌐 **ASP.NET:** Knowledgeable in creating scalable web applications.
 
 
 Feel free to explore my projects and reach out if you have any questions or need further information.

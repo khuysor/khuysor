@@ -21,11 +21,11 @@ Feel free to explore my projects and reach out if you have any questions or need
 
 
 
-## My Projects
-- Project School:
-      - [backend](https://github.com/khuysor/project1](https://github.com/khuysor/project-school)
-      - [frontend](https://github.com/khuysor/project-school-ui)
+# My Projects
+## Project School
+[backend](https://github.com/khuysor/project-school)
+[frontend](https://github.com/khuysor/project-school-ui)
 
-## Connect with Me
+# Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/huysor-kheang-203118284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-profile)

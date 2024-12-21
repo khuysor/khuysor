@@ -54,18 +54,17 @@ Feel free to explore my projects and reach out if you have any questions or need
 <div align="center">
   <img alt="Java" title="Java" src="https://dev.java/assets/images/java-logo-vector.png" width="100">
   &nbsp;&nbsp;
-  <img alt="javascript" title="Javascript" width="50" src="https://github.com/your-assets/raw/main/Programming%20Icons/javascript.svg">
+  <img alt="JavaScript" title="JavaScript" width="50" src="https://github.com/your-assets/raw/main/Programming%20Icons/javascript.svg">
   &nbsp;&nbsp;
-  <img alt="NodeJs" title="NodeJs" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/nodedotjs.svg">
+  <img alt="TypeScript" title="TypeScript" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/typescript.svg">
   &nbsp;&nbsp;
-  <img alt="ExpressJs" title="ExpressJs" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/express.svg" width="50">
-  <img alt="ReactJs" title="ReactJs" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/react.svg">
+  <img alt="React" title="React" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/react.svg">
   &nbsp;&nbsp;
-  <img alt="NextJS" title="NextJS" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/nextjs.svg">
+  <img alt="NestJS" title="NestJS" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/nestjs.svg">
   &nbsp;&nbsp;
-  <img alt="Laravel" title="Laravel" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/laravel.svg">
+  <img alt="ASP.NET" title="ASP.NET" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/aspnet.svg">
   &nbsp;&nbsp;
-  <img alt="MongoDB" title="MongoDB" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/mongodb.svg">
+  <img alt="Docker" title="Docker" width="50" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/docker.svg">
   &nbsp;&nbsp;
-  <img alt="MySql" title="MySql" height="70" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/mysql.svg">
+  <img alt="MySQL" title="MySQL" height="70" src="https://raw.githubusercontent.com/your-assets/main/Programming%20Icons/mysql.svg">
 </div>
